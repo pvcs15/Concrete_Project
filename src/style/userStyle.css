@@ -1,0 +1,166 @@
+.user-avatar {
+    width: 230px;
+    height: 220px;
+    border-radius: 2px;
+    box-shadow: 0 0 4px NaNpx var(--black-40);
+  }
+
+  .user-name {
+    width: 280px;
+    height: 40px;
+    font-family: Raleway;
+    font-size: 35px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+  }
+
+  .user-login {
+    width: 280px;
+    height: 25px;
+    font-size: 20px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #5c5c5c;
+  }
+
+  .userDetails {
+    width: 240px;
+    height: 22px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    list-style-type: none;
+    color: #5c5c5c;
+  }
+
+  .iconDetails {
+    margin-right: 7px;
+    width: 24px;
+    height: 24px;
+  }
+
+  .container {
+    margin-left: 28px;
+  }
+
+  /* criar um detailsrepo css */
+  .repo-name {
+    width: 375.5px;
+    height: 40.8px;
+    font-family: Raleway;
+    font-size: 35px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ac53f2;
+    list-style-type: none;
+  }
+
+  .repo-description {
+    width: 600px;
+    height: 25.5px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    list-style-type: none;
+    display: inline-block;
+    color: #000000;
+  }
+
+  .star-count {
+    width: 255.3px;
+    height: 22.4px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    list-style-type: none;
+    color: #5c5c5c;
+  }
+
+  .Github-SearchScreen {
+    width: 280px;
+    height: 50px;
+    font-size: 40px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    display: inline-flex;
+    margin: 35px 0 53px 25px;
+    color: #000000;
+  }
+  .Github-SearchScreen .text-styleScreen-1 {
+    font-weight: 200;
+    font-style: italic;
+    margin-left: 7px;
+  }
+  .Search-InputScreen {
+    margin-left: 85px;
+    width: 650px;
+    height: 50px;
+    border: 1px solid #d8d6d6ad;
+    border-radius: 6px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 300;
+    color: #9a9a9a
+  }
+
+  .container-Search {
+    display: flex;
+  }
+
+  .search-text {
+    width: 280px;
+    height: 43px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #5c5c5c;
+  }
+
+  .Not-found-message {
+    width: 500px;
+    height: 41px;
+    font-family: Raleway;
+    font-size: 40px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ac53f2;
+    position: absolute;
+    left: 30%;
+  }
+
+  .borderContainer {
+    border: 1px solid;
+    margin: 1px 1px 1px 1px;
+  }
